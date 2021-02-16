@@ -27,7 +27,7 @@ Alcatraz
 Alfred Hitchcock Presents
 Alias
 All in the Family
-Allo 'Allo!
+'Allo 'Allo!
 Ally McBeal
 Almost Human
 Alphas
@@ -56,10 +56,10 @@ Austin & Ally
 Avatar: The Last Airbender
 Avrupa Yakasi
 Awake
-Awkward.
+Awkward
 Baby Daddy
 Babylon 5
-Baccano
+Baccano!
 Backstrom
 Ballers
 Banshee
@@ -70,11 +70,11 @@ Batman: The Animated Series
 Battle Creek
 Battlestar Galactica
 Beast Wars: Transformers
-Beauty and the Beast TV Series
+Beauty and the Beast
 Beavis and Butt-Head
 Becker
 Beetlejuice
-Behzat Ç.: Bir Ankara Polisiyesi
+Behzat Ç. Bir Ankara Polisiyesi
 Being Erica
 Being Human
 Believe
@@ -87,22 +87,22 @@ Bewitched
 Big Love
 Big Time Rush
 Bitten
-Black Adder the Third
+Blackadder the Third
 Black Books
 Black Lagoon
 Black Mirror
 Black Sails
-Black-Adder II
+Blackadder II
 Black-Ish
 Blackadder Goes Forth
-Bleach:
+Bleach
 Blindspot
 Blood Ties
 Bloodline
 Blue Bloods
 Blue Mountain State
 Boardwalk Empire
-Bob`S Burgers
+Bob's Burgers
 Body of Proof
 Bojack Horseman
 Bonanza
@@ -146,7 +146,7 @@ Cheers
 Chicago Fire
 Chicago P.D.
 Childrens Hospital
-Chip and Dale Rescue Rangers
+Chip 'n Dale Rescue Rangers
 Chowder
 Chuck
 Clarissa Explains It All
@@ -213,11 +213,11 @@ Doc Martin
 Doctor Who
 Dollhouse
 Dominion
-Dont Trust the Bitch in Apartment 23
+Don't Trust the Bitch in Apartment 23
 Doogie Howser, M.D.
 Doug
-Downtown Abbey
-Dr. Quinn Medicine Woman
+Downton Abbey
+Dr. Quinn, Medicine Woman
 Dracula
 Dragon Ball
 Dragon Ball GT
@@ -234,7 +234,7 @@ Early Edition
 Eastbound & Down
 Eastwick
 Ed
-Ed Edd N Eddy
+Ed, Edd n Eddy
 Elementary
 Elfen Lied
 Eli Stone
@@ -273,7 +273,7 @@ Flight of the Conchords
 Forbrydelsen
 Forever Over
 Fortitude
-Foster`S Home for Imaginary Friends
+Foster's Home for Imaginary Friends
 Foyle's War
 Franklin & Bash
 Frasier
@@ -338,7 +338,7 @@ Hart of Dixie
 Harvey Birdman, Attorney at Law
 Haven
 Hawaii Five-0
-He -Man and the Masters of the Universe
+He-Man and the Masters of the Universe
 Helix
 Hell on Wheels
 Hell's Kitchen
@@ -351,7 +351,7 @@ Hercules
 Hercules: The Legendary Journeys
 Heroes
 Heroes
-Hey Arnold
+Hey Arnold!
 Highlander
 Highschool of the Dead
 Hogan's Heroes
@@ -361,7 +361,7 @@ Homeland
 Homicide: Life on the Street
 Hostages
 Hot in Cleveland
-House M.D
+House, M.D.
 House of Cards
 House of Lies
 How I Met Your Mother
@@ -371,7 +371,7 @@ Human Target
 Humans
 Hung
 Hunted
-Hunter X Hunter
+Hunter × Hunter
 Hustle
 I Dream of Jeannie
 I Love Lucy
@@ -390,7 +390,7 @@ Into the Badlands
 Inuyasha
 Invader Zim
 Invasion
-Isler Güçler
+İşler Güçler
 It's Always Sunny in Philadelphia
 JAG
 Jackass: The Movie
@@ -427,7 +427,7 @@ Kyle XY
 La Femme Nikita
 Larry David: Curb Your Enthusiasm
 Las Vegas
-Last Man Standing TV Series
+Last Man Standing
 Last Resort
 Last Week Tonight With John Oliver
 Late Night With Jimmy Fallon
@@ -468,7 +468,7 @@ Macgyver
 Mad About You
 Mad Men
 Madam Secretary
-Madtv
+Mad TV
 Magic City
 Magnificent Century
 Magnum, P.I.
@@ -512,12 +512,12 @@ Mozart in the Jungle
 Mr. Bean
 Mr. Bean: The Animated Series
 Mr. Robot
-Mr. Selfridge
+Mr Selfridge
 Mr. Show
 Mr. Sunshine
 Mrs. Brown's Boys
 Murder, She Wrote
-Mushi-Shi
+Mushishi
 My Family
 My Little Pony: Friendship Is Magic
 My Mad Fat Diary
@@ -532,7 +532,7 @@ NCIS: New Orleans
 NYPD Blue
 Narcos
 Naruto
-Naruto: Shippûden
+Naruto: Shippuden
 Nashville
 Necessary Roughness
 Ned's Declassified School Survival Guide
@@ -541,11 +541,11 @@ New Amsterdam
 New Girl
 Newsradio
 Night Court
-Nikita TV Series
+Nikita
 Nip/Tuck
 No Ordinary Family
 Northern Exposure
-Numb3rs
+Numbers
 Nurse Jackie
 Olympus
 Once Upon a Time
@@ -579,8 +579,8 @@ Person of Interest
 Persons Unknown
 Phineas and Ferb
 Pinky and the Brain
-Pokemon
-Poketto Monsutâ
+Pokémon
+Poketto Monsuta
 Poldark
 Police Squad!
 Popular
@@ -592,7 +592,7 @@ Prison Break
 Private Practice
 Project Runway
 Psych
-Psycho Pass
+Psycho-Pass
 Punk'd
 Pushing Daisies
 QI
@@ -640,10 +640,10 @@ Samantha Who?
 Samurai Champloo
 Samurai Jack
 Sanctuary
-Saturday Nigh
+Saturday Night
 Saved by the Bell
 Scandal
-Scooby Doo, Where Are You!
+Scooby-Doo, Where Are You!
 Scorpion
 Scream Queens
 Scream: The TV Series
@@ -662,7 +662,7 @@ Shark Tank
 Shaun the Sheep
 Sherlock
 Silicon Valley
-Sister Sister
+Sister, Sister
 Six Feet Under
 Skins
 Sleepy Hollow
@@ -737,7 +737,7 @@ The 100
 The 4400
 The A-Team
 The Addams Family
-The Adventures of Brisco County Jr.
+The Adventures of Brisco County, Jr.
 The Adventures of Jimmy Neutron: Boy Genius
 The Adventures of Pete & Pete
 The Adventures of Sherlock Holmes
@@ -839,7 +839,7 @@ The Muppet Show
 The Musketeers
 The Mysteries of Laura
 The Nanny
-The Neighbors TV Series
+The Neighbors
 The New Adventures of Old Christine
 The New Batman Adventures
 The New Normal
@@ -865,7 +865,7 @@ The Returned
 The Riches
 The Ricky Gervais Show
 The River
-The Sarah Silverman Program.
+The Sarah Silverman Program
 The Secret Circle
 The Shield
 The Simpsons
@@ -911,7 +911,7 @@ Top Gear
 Top of the Lake
 Torchwood
 Tosh.0
-Touch TV Series
+Touch
 Trailer Park Boys
 Transformers
 Transparent
@@ -935,7 +935,7 @@ Unbreakable Kimmy Schmidt
 Undateable
 Undeclared
 Under the Dome
-Undercover
+Undercovers
 Unforgettable
 United States of Tara
 Up All Night
@@ -958,7 +958,7 @@ What I Like About You
 White Collar
 Whitechapel
 Who's the Boss?
-Whose Line Is It Anyway
+Whose Line Is It Anyway?
 Wilfred
 Will & Grace
 Wings
@@ -979,7 +979,7 @@ You're the Worst
 Young & Hungry
 Young Justice
 Yu Yu Hakusho: Ghost Files
-Yugio
+Yu-Gi-Oh!
 Z Nation
 Zoo
 iZombie
