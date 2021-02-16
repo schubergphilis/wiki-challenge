@@ -95,10 +95,10 @@ Black Sails
 Black-Adder II
 Black-Ish
 Blackadder Goes Forth
-Bleach: Season 1
+Bleach:
 Blindspot
 Blood Ties
-Bloodline (TV Series)
+Bloodline
 Blue Bloods
 Blue Mountain State
 Boardwalk Empire
@@ -191,7 +191,7 @@ Day Break
 Dead Like Me
 Deadliest Catch
 Deadwood
-Death Note - Series
+Death Note
 Death in Paradise
 Defiance
 Defying Gravity
@@ -230,7 +230,7 @@ Drop Dead Diva
 Duck Dynasty
 Ducktales
 ER
-Early Edition 
+Early Edition
 Eastbound & Down
 Eastwick
 Ed
@@ -285,7 +285,7 @@ Friday Night Lights
 Friends
 Fringe
 Frisky Dingo
-From Dusk Till Dawn Season 1
+From Dusk Till Dawn
 Full House
 Fullmetal Alchemist
 Fullmetal Alchemist: Brotherhood
@@ -315,7 +315,7 @@ Gomorrah
 Good Luck Charlie
 Goosebumps
 Gossip Girl
-Gotham (TV Series)
+Gotham
 Grace and Frankie
 Graceland
 Gravity Falls
@@ -350,12 +350,12 @@ Hemlock Grove
 Hercules
 Hercules: The Legendary Journeys
 Heroes
-Heroes (TV Series)
+Heroes
 Hey Arnold
 Highlander
 Highschool of the Dead
-Hogan's Heroes 
-Home Improvement 
+Hogan's Heroes
+Home Improvement
 Home Movies
 Homeland
 Homicide: Life on the Street
@@ -585,7 +585,7 @@ Poldark
 Police Squad!
 Popular
 Portlandia
-Power (TV Series)
+Power
 Pretty Little Liars
 Primeval
 Prison Break
@@ -633,7 +633,7 @@ Rubicon
 Rugrats
 Rules of Engagement
 Rurouni Kenshin
-Sabrina the Teenage Witch (TV Show)
+Sabrina the Teenage Witch
 Sailor Moon
 Salem
 Samantha Who?
@@ -642,7 +642,7 @@ Samurai Jack
 Sanctuary
 Saturday Nigh
 Saved by the Bell
-Scandal (TV Series)
+Scandal
 Scooby Doo, Where Are You!
 Scorpion
 Scream Queens
@@ -704,7 +704,7 @@ Stitchers
 Storage Wars
 Strike Back
 Studio 60 on the Sunset Strip
-Suburgatory Season 1
+Suburgatory
 Suite Life of Zack and Cody
 Suits
 Summer Heights High
@@ -716,7 +716,7 @@ Survivor
 Survivorman
 Survivors
 Switched at Birth
-Sword Art Online 
+Sword Art Online
 TRON: Uprising
 Turn: Washington's Spies
 Tales From the Crypt
@@ -861,7 +861,7 @@ The Pretender
 The Prisoner
 The Ren & Stimpy Show
 The Returned
-The Returned 
+The Returned
 The Riches
 The Ricky Gervais Show
 The River
@@ -883,7 +883,7 @@ The Tonight Show With Conan O'Brien
 The Tudors
 The Twilight Zone
 The Unit
-The Vampire Diaries Season 1
+The Vampire Diaries
 The Venture Bros.
 The Vicar of Dibley
 The Voice
@@ -915,7 +915,7 @@ Touch TV Series
 Trailer Park Boys
 Transformers
 Transparent
-Transporter: The Series
+Transporter
 Treme
 Trigun
 Trophy Wife
@@ -924,7 +924,7 @@ True Blood
 True Detective
 Twilight Zone
 Twin Peaks
-Twisted (TV Series)
+Twisted
 Two Guys, a Girl and a Pizza Place
 Two and a Half Men
 Tyrant
@@ -952,7 +952,7 @@ Viva La Bam
 WWF Raw
 Wallander
 Warehouse 13
-Wayward Pines (TV Series)
+Wayward Pines
 Weeds
 What I Like About You
 White Collar
@@ -982,4 +982,4 @@ Yu Yu Hakusho: Ghost Files
 Yugio
 Z Nation
 Zoo
-iZombie (TV Series)
+iZombie
