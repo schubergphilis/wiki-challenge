@@ -17,9 +17,9 @@ class SearchResult:
 
     @property
     def title(self):
-        filters = {'episode_lists': lambda x: x[8:-9],
-                   'miniseries': lambda x: x[:-13],
-                   'tv_series': lambda x: x[:-12],
+        filters = {'episode_lists': lambda x: ' '.join(x.split()[2:-1]),
+                   'miniseries': lambda x: ' '.join(x.split()[:-1]),
+                   'tv_series': lambda x: ' '.join(x.split()[:-2]),
                    'vanila': lambda x: x}
         return filters[self.type](self.response_title)
 

@@ -105,7 +105,7 @@ Boardwalk Empire
 Bob`S Burgers
 Body of Proof
 Bojack Horseman
-Bonanza 
+Bonanza
 Bones
 Bored to Death
 Borgen
@@ -141,7 +141,7 @@ Catdog
 Celebrity Deathmatch
 Chappelle's Show
 Charlie's Angels
-Charmed Season 1
+Charmed
 Cheers
 Chicago Fire
 Chicago P.D.
@@ -203,7 +203,7 @@ Devious Maids
 Dexter
 Dexter's Laboratory
 Dharma & Greg
-Diff'rent Strokes 
+Diff'rent Strokes
 Digimon: Digital Monsters
 Dinosaurs
 Dirt
@@ -238,7 +238,7 @@ Ed Edd N Eddy
 Elementary
 Elfen Lied
 Eli Stone
-Emily Owens M.D.
+Emily Owens, M.D.
 Empire
 Endeavour
 Enlightened
@@ -280,7 +280,7 @@ Frasier
 Freakazoid!
 Freaks and Geeks
 Fresh Meat
-Fresh off the Boat
+Fresh Off the Boat
 Friday Night Lights
 Friends
 Fringe
@@ -421,7 +421,7 @@ King of the Hill
 Kingdom Hospital
 Kings
 Kitchen Nightmares
-Knight Rider 
+Knight Rider
 Kurtlar Vadisi
 Kyle XY
 La Femme Nikita
@@ -440,7 +440,7 @@ Legend of the Seeker
 Legends
 Legit
 Leverage
-Leyla Ile Mecnun
+Leyla ile Mecnun
 Lie to Me
 Life
 Life Unexpected
@@ -477,9 +477,9 @@ Make It or Break It
 Making a Murderer
 Malcolm in the Middle
 Man V. Food
-Man Vs. Wild
+Man vs. Wild
 Marco Polo
-Married...With Children
+Married... With Children
 Master of None
 Masters of Horror
 Masters of Sex
@@ -614,7 +614,7 @@ Regular Show
 Reign
 Reno 911!
 Rescue Me
-Resurrection TV Series
+Resurrection
 Revenge
 Revolution
 Rick and Morty
@@ -718,13 +718,13 @@ Survivors
 Switched at Birth
 Sword Art Online 
 TRON: Uprising
-TURN: Washington's Spies
+Turn: Washington's Spies
 Tales From the Crypt
-Talespin
+TaleSpin
 Taxi
 Taz-Mania
 Teen Titans
-Teen Wolf: Season 2
+Teen Wolf
 Teenage Mutant Ninja Turtles
 Tengen Toppa Gurren Lagann
 Terminator: The Sarah Connor Chronicles
